@@ -1,1 +1,2 @@
 # 2048-Game
+2048 is a captivating number puzzle game designed to challenge your strategic thinking. Players merge tiles with identical numbers to combine their values, progressively working towards creating a tile with 2048 or higher. With each move, a new tile numbered 2 or 4 appears on the 4x4 grid, adding complexity to the gameplay. The game concludes when no valid moves are possible. Success requires careful planning and a keen eye for potential combinations to achieve the target within the limited grid space.
